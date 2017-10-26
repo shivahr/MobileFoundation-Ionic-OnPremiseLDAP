@@ -1,6 +1,6 @@
 **Note**: This is a work in progress.
 
-# MobileFoundation-Ionic-OnPremiseLDAP
+# Mobile User Authentication using On Premise LDAP Server and IBM Mobile Foundation
 
 <img src="doc/source/images/Architecture.png" alt="Architecture diagram" width="1000" border="10" />
 
